@@ -7,8 +7,8 @@
 
 $('.regular').slick({
     dots: true,
-    infinite: false,
-    speed: 300,
+    infinite: true,
+    speed: 400,
     slidesToShow: 3,
     slidesToScroll: 3,
     responsive: [
